@@ -1,0 +1,44 @@
+@import url('./cal.jpg');
+
+*{
+   
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    
+}
+.button{
+    padding:10px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius:10px;
+    width: 50px;
+    height:50px;
+    display: table-cell;
+    background-color: rgb(141, 197, 197);
+    font-size: medium;
+    font-weight: bold;
+    cursor: pointer;
+   
+}
+.input{
+    font-size: 26px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px;
+    width: 260px;   
+    height: 30px;
+}
+.text-center{
+    text-align: center;
+    margin: 15px;
+    font-size:50px;
+}    
+.number{
+    background-color: grey;
+}
+
+   
+
+
